@@ -1,0 +1,27 @@
+[
+  {
+    "couple_id": "15706677831_15706677832",
+    "account1": {
+      "uid": 4838970226,
+      "password": "BITTU_DEV-PX9TKEEQ",
+      "name": "BITTU⁵³³²",
+      "region": "IND",
+      "status": "success",
+      "account_id": "15706677831",
+      "jwt_token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjMiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNTcwNjY3NzgzMSwibmlja25hbWUiOiJjeXhoYkd6YTR0YWdpNmJWcHRZPSIsIm5vdGlfcmVnaW9uIjoiSU5EIiwibG9ja19yZWdpb24iOiJJTkQiLCJleHRlcm5hbF9pZCI6ImQwNGUxNjQ0MjY0OTY1OTkwOTRlZDY0NWYwOWE4ZDM4IiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExNC4xMyIsImVtdWxhdG9yX3Njb3JlIjoxMDAsImlzX2VtdWxhdG9yIjp0cnVlLCJjb3VudHJ5X2NvZGUiOiJJTiIsImV4dGVybmFsX3VpZCI6NDgzODk3MDIyNiwicmVnX2F2YXRhciI6MTAyMDAwMDA3LCJzb3VyY2UiOjAsImxvY2tfcmVnaW9uX3RpbWUiOjAsImNsaWVudF90eXBlIjoyLCJzaWduYXR1cmVfbWQ1IjoiNzQyOGIyNTNkZWZjMTY0MDE4YzYwNGExZWJiZmViZGYiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiJhbmRyb2lkIiwicmVsZWFzZV92ZXJzaW9uIjoiT0I1MyIsImV4cCI6MTc3ODg3OTIwMH0.H2m-s2Vv4JuXr2AQRqhKBePbfy-O8hCvJGerTL1S1OM",
+      "activation_status": "SUCCESS"
+    },
+    "account2": {
+      "uid": 4838970006,
+      "account_id": "15706677832",
+      "name": "BITTU⁵⁵⁷²",
+      "password": "BITTU_DEV-B004G6LK",
+      "region": "IND",
+      "thread_id": 1,
+      "timestamp": "2026-05-15T13:06:41.185671"
+    },
+    "reason": "Sequential: 15706677831 & 15706677832",
+    "region": "IND",
+    "date_matched": "2026-05-15 13:06:41"
+  }
+]
